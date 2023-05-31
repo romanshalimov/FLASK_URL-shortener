@@ -1,2 +1,1 @@
-# link_shortener_task
-link shortener
+Задача по укорачиванию ссылок c использованием Flask.
